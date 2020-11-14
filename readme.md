@@ -1,4 +1,4 @@
-## This project was created as a working project for Brad Traversy's Udemy course "Nodejs API masterclass with Express 7 Mongodb"
+## This project was created as a working project for Brad Traversy's Udemy course "Nodejs API masterclass with Express and Mongodb"
 
 # DevCamper API
 

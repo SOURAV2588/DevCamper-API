@@ -1,3 +1,5 @@
+## This project was created as a working project for Brad Traversy's Udemy course "Nodejs API masterclass with Express 7 Mongodb"
+
 # DevCamper API
 
 > Backend API for the DevCamper application which is a bootcamp directory website
